@@ -1,0 +1,17 @@
+{
+    "name": "anacl/qr-code",
+    "autoload": {
+        "psr-4": {
+            "Anacl\\QrCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ana Cruz",
+            "email": "anaclara.dcruz@gmail.com"
+        }
+    ],
+    "require": {
+        "chillerlan/php-qrcode": "^4.3"
+    }
+}
